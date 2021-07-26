@@ -53,7 +53,7 @@ class ProductCard extends StatelessWidget {
                   height: 6,
                 ),
                 Text(
-                  '\$56,78',
+                  '\$ 56,78',
                   style: priceTextStyle.copyWith(
                     fontSize: 14,
                     fontWeight: medium,
