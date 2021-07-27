@@ -9,8 +9,8 @@ class HomePage extends StatelessWidget {
     Widget header() {
       return Container(
         margin: EdgeInsets.only(
-          top: defaultMargin,
           left: defaultMargin,
+          top: defaultMargin,
           right: defaultMargin,
         ),
         child: Row(
